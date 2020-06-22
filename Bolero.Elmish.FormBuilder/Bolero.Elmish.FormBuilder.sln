@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bolero.Elmish.FormBuilder", "Bolero.Elmish.FormBuilder\Bolero.Elmish.FormBuilder.fsproj", "{7825936C-C0E1-4A91-B1B7-C10C15937D17}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bolero.Elmish.FormBuilder.BasicFields", "Bolero.Elmish.FormBuilder.BasicFields\Bolero.Elmish.FormBuilder.BasicFields.fsproj", "{F6D2D272-ABA7-4CFB-93AC-6117FD293F4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7825936C-C0E1-4A91-B1B7-C10C15937D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7825936C-C0E1-4A91-B1B7-C10C15937D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7825936C-C0E1-4A91-B1B7-C10C15937D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7825936C-C0E1-4A91-B1B7-C10C15937D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D2D272-ABA7-4CFB-93AC-6117FD293F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D2D272-ABA7-4CFB-93AC-6117FD293F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D2D272-ABA7-4CFB-93AC-6117FD293F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D2D272-ABA7-4CFB-93AC-6117FD293F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {504456E3-D1AE-49FF-848C-F1658F4981EC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="Types.fs" />
+    <Compile Include="Cmd.fs" />
+    <Compile Include="Helpers.fs" />
+    <Compile Include="Form.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Bolero" Version="0.13.23" />
+    <PackageReference Include="Thoth.Json.Net" Version="4.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Update="FSharp.Core" Version="4.7.2" />
+  </ItemGroup>
+
+</Project>
